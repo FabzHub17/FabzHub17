@@ -28,12 +28,3 @@ I'm currently working to grow as a software developer, build meaningful applicat
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![nextdotjs](https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
-## 📫 Contact
-
-
-<a href="https://www.linkedin.com/in/fabio-vitharana-9277b2332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a>
-<a href="mailto:fabio17.vitharana@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
